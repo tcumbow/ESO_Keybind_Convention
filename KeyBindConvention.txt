@@ -17,7 +17,8 @@ Q - Use Quickslot
 E - Use/Activate
 R - Ultimate
 Shift+R - Mass Deconstruct
-T - AutorunY - Command Pet (forgot about it but i do use it sometimes)
+T - Autorun
+Y - Command Pet (forgot about it but i do use it sometimes)
 U - Collections (I never use it)I - Inventory
 O - Friends
 P - Group
@@ -48,7 +49,8 @@ Shift+N - Set BankManagerRevived config to Normal
 M - Map / Beam me up
 Shift+M - Set BankManagerRevived config to Pull Maps
 , - nothing?
-. - Mouse mode/ - Start a command (I never use it b/c I forgot and start by hitting Enter instead)
+. - Mouse mode
+/ - Start a command (I never use it b/c I forgot and start by hitting Enter instead)
 Ctrl - Hide
 Alt - Exit
 Space - Jump
