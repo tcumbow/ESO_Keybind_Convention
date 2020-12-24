@@ -1,9 +1,3 @@
-# ESO_Keybind_Convention
-
-\ Toggle Gamepad Mode
-
-
-# What I use currently. Trying to go row by row. These are from memory so I may have some vital ones that I'm not thinking of b/c I'm not in combat.
 ` - Swap bar
 1-5 - Action Slots
 Shift+1-5 - Alphagear preset
@@ -57,4 +51,3 @@ Ctrl - Hide
 Alt - Exit
 Space - Jump
 Arrow keys - I'm considering making an addon that turns these into mouse directional movements for play over VNC
-
