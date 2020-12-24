@@ -1,8 +1,8 @@
-` - Swap bar
-1-5 - Action Slots
-Shift+1-5 - Alphagear preset
-6 - Experimental addon stuff, usually nothing
-Shift+6 - Run Dustman Scan (for after Jen has been playing)
+` - Swap bar; default
+1-5 - Action Slots; default
+Shift+1-5 - Alphagear preset; custom
+6 - Experimental addon stuff, usually nothing ;custom
+Shift+6 - Run Dustman Scan (for after Jen has been playing);custom
 7 - Destroy Item (willing to move this to Backspace or Delete)
 8 - Unmark Junk (doesn't really work anymore)
 9 - Holiday Momento
@@ -12,10 +12,10 @@ Shift+6 - Run Dustman Scan (for after Jen has been playing)
 Entire Numpad is missing from Mac so it's fair game
 
 Tab - Target Enemy (rarely used)
-WASD - Movement
-Q - Use Quickslot
-E - Use/Activate
-R - Ultimate
+WASD - Movement; default
+Q - Use Quickslot; default
+E - Use/Activate; default
+R - Ultimate; default
 Shift+R - Mass Deconstruct
 T - Autorun
 Y - Command Pet (forgot about it but i do use it sometimes)
