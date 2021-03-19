@@ -23,6 +23,7 @@ U - Collections (I never use it)I - Inventory
 O - Friends
 P - Group
 \ - What My Pledges At
+] - Toggle GamePad mode
 
 Capslock - Intentionally nothing (was autorun but kept hitting it accidentally)
 F - Target Menu (like for trading) / Accept notification
