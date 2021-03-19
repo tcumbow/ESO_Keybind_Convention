@@ -19,7 +19,8 @@ R - Ultimate
 Shift+R - Mass Deconstruct
 T - Autorun
 Y - Command Pet (forgot about it but i do use it sometimes)
-U - Collections (I never use it)I - Inventory
+U - Collections (I never use it)
+I - Inventory
 O - Friends
 P - Group
 \ - What My Pledges At
