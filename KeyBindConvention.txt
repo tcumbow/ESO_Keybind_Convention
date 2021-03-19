@@ -4,7 +4,7 @@ Shift+1-5 - Alphagear preset
 6 - Experimental addon stuff, usually nothing
 Shift+6 - Run Dustman Scan (for after Jen has been playing)
 7 - Destroy Item (willing to move this to Backspace or Delete)
-8 - Unmark Junk (doesn't really work anymore)
+8 - Mark/Unmark Junk
 9 - Holiday Momento
 0 - Loot all Mail
 - - Reload UI
@@ -45,7 +45,7 @@ X - Synergy / Decline Notification
 C - Character
 V - Toggle between 1st and 3rd person view (I actually use this)
 B - Roomba (willing to part with this)
-N - nothing?
+N - Toggle Combat Metrics fight report
 Shift+N - Set BankManagerRevived config to Normal
 M - Map / Beam me up
 Shift+M - Set BankManagerRevived config to Pull Maps
