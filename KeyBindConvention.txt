@@ -58,5 +58,5 @@ Alt - Exit
 Space - Jump
 Arrow keys - I'm considering making an addon that turns these into mouse directional movements for play over VNC
 
-F9 - Attack (for some reason hitting the mouse buttons acts weird when in gamepad mode)
+F9 - Bash/Break Free
 F10 - Roll Dodge (double-tapping directional keys doesn't work in gamepad mode) F10 is keycode 84 in ESO
